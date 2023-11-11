@@ -7,24 +7,24 @@
 - 📫 You can reach me at thisismairaj@gmail.com
 - 🚀 My blog: https://medium.com/@immairaj
 
-### Blog posts
+📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything that happened at OpenAI’s DevDay](https://medium.com/@immairaj/everything-that-happened-at-openais-devday-c9966eea0fa7?source=rss-b4e64356cecd------2)
-- [My Tiny Guide to Shadcn, Radix, and Tailwind](https://medium.com/@immairaj/my-tiny-guide-to-shadcn-radix-and-tailwind-da50fce3140a?source=rss-b4e64356cecd------2)
-- [Indie Hacking excites me](https://medium.com/@immairaj/indie-hacking-excites-me-3e8e0b53847d?source=rss-b4e64356cecd------2)
-- [How fast you work matters](https://medium.com/@immairaj/speed-matters-more-than-you-realize-5a3ece7ddb3d?source=rss-b4e64356cecd------2)
-- [Teaching web development and stuff](https://medium.com/@immairaj/teaching-web-development-and-stuff-ea32a07bc17a?source=rss-b4e64356cecd------2)
-<!-- BLOG-POST-LIST:END -->
 
-### Connect with me:
+🔗 &nbsp;**Connect with me**
+
+<p align="left">
+<a href="https://medium.com/@immairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="thisismairaj" height="30" width="40" /></a>
+<a href="https://twitter.com/thisismairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisismairaj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thisismairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+</p>
 
 [<img align="left" alt="https://medium.com/@immairaj/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mairaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages, Frameworks and Tools:
+🛠️ &nbsp;**Languages, Frameworks and Tools**
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -54,13 +54,8 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-[![Mairaj's WakaTime stats](https://github-readme-stats-liart-omega.vercel.app/api/wakatime?username=thisismairaj)](https://github.com/thisismairaj/github-readme-stats)
-
-[![Mairaj's GitHub stats](https://github-readme-stats-liart-omega.vercel.app/api?username=thisismairaj&show_icons=true&theme=blue-green&locale=en)](https://github.com/thisismairaj/github-readme-stats)
+[![Mairaj's GitHub stats](https://github-readme-stats-liart-omega.vercel.app/api?username=thisismairaj&show_icons=true&locale=en)](https://github.com/thisismairaj/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-liart-omega.vercel.app/api/top-langs/?username=thisismairaj&layout=compact)](https://github.com/thisismairaj/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thisismairaj)](https://git.io/streak-stats)
-
-[website]: https://medium.com/@immairaj
-[linkedin]: https://www.linkedin.com/in/thisismairaj/
