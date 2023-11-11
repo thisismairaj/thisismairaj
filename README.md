@@ -1,4 +1,4 @@
-<h2>Hi there, nice to see you. I'm <a href="https://www.linkedin.com/in/brandon-bhangari/">Mairaj</a> 👋</h2>
+<h2>Hi there, nice to see you. I'm <a href="https://www.linkedin.com/in/thisismairaj/">Mairaj</a> 👋</h2>
 
 - 🔭 I’m currently working on expanding and honing my web development skills
 - 🌱 I’m currently creating React portfolio projects
