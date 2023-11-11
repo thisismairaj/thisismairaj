@@ -7,6 +7,11 @@
 - 📫 You can reach me at thisismairaj@gmail.com
 - 🚀 My blog: https://medium.com/@immairaj
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Connect with me:
 
 [<img align="left" alt="https://medium.com/@immairaj/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
