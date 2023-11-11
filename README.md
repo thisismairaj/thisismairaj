@@ -7,7 +7,7 @@
 - 📫 You can reach me at thisismairaj@gmail.com
 - 🚀 My blog: https://medium.com/@immairaj
 
-# Blog posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
