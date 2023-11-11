@@ -19,9 +19,6 @@
 <a href="https://linkedin.com/in/thisismairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 </p>
 
-[<img align="left" alt="https://medium.com/@immairaj/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mairaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 🛠️ &nbsp;**Languages, Frameworks and Tools**
@@ -54,13 +51,7 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-[![Mairaj's WakaTime stats](https://github-readme-stats-liart-omega.vercel.app/api/wakatime?username=thisismairaj)](https://github.com/thisismairaj/github-readme-stats)
-
-[![Mairaj's GitHub stats](https://github-readme-stats-liart-omega.vercel.app/api?username=thisismairaj&show_icons=true&locale=en)](https://github.com/thisismairaj/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats-liart-omega.vercel.app/api/top-langs/?username=thisismairaj&layout=compact)](https://github.com/thisismairaj/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thisismairaj)](https://git.io/streak-stats)
 
 [website]: https://medium.com/@immairaj
 [linkedin]: https://www.linkedin.com/in/thisismairaj/
