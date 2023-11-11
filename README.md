@@ -1,4 +1,4 @@
-<h2>Hi there, nice to see you. I'm <a href="https://www.linkedin.com/in/thisismairaj/">Mairaj</a> 👋</h2>
+<h2>Hi, it's fantastic to see you here. I'm <a href="https://www.linkedin.com/in/thisismairaj/">Mairaj</a> 👋</h2>
 
 - 🔭 I’m currently working on expanding and honing my web development skills
 - 🌱 I’m currently creating React portfolio projects
@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love working out and writing
 - 🚀 My blog: https://medium.com/@immairaj
 
-📕 &nbsp;**Latest Blog Posts**
+📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
