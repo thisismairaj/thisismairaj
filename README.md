@@ -9,9 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://brandonbhangari.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://medium.com/@immairaj/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mairaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Mairaj Pirzada" height="22px" />][leetcode]
 
 <br />
 
@@ -47,7 +46,7 @@
 
 [![Mairaj's GitHub stats](https://github-readme-stats-liart-omega.vercel.app/api?username=thisismairaj&show_icons=true&theme=blue-green&locale=en)](https://github.com/thisismairaj/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-liart-omega.vercel.app/api/top-langs/?username=thisismairaj&layout=compact)](https://github.com/thisismairaj/github-stats)
+[![Top Langs](https://github-readme-stats-liart-omega.vercel.app/api/top-langs/?username=thisismairaj&layout=compact)](https://github.com/thisismairaj/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thisismairaj)](https://git.io/streak-stats)
 
