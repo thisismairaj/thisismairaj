@@ -44,6 +44,8 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+[![Mairaj's WakaTime stats](https://github-readme-stats-liart-omega.vercel.app/api/wakatime?username=thisismairaj)](https://github.com/thisismairaj/github-readme-stats)
+
 [![Mairaj's GitHub stats](https://github-readme-stats-liart-omega.vercel.app/api?username=thisismairaj&show_icons=true&theme=blue-green&locale=en)](https://github.com/thisismairaj/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-liart-omega.vercel.app/api/top-langs/?username=thisismairaj&layout=compact)](https://github.com/thisismairaj/github-readme-stats)
