@@ -42,7 +42,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Prisma]
 
 [![Mairaj's GitHub stats](https://github-readme-stats-liart-omega.vercel.app/api?username=thisismairaj&show_icons=true&theme=blue-green&locale=en)](https://github.com/thisismairaj/github-readme-stats)
 
@@ -50,5 +50,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thisismairaj)](https://git.io/streak-stats)
 
-[blog]: https://medium.com/@immairaj
+[website]: https://medium.com/@immairaj
 [linkedin]: https://www.linkedin.com/in/thisismairaj/
