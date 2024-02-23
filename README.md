@@ -9,11 +9,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [Collaborate, not compete](https://medium.com/@immairaj/collaborate-not-compete-e19beba90c24?source=rss-b4e64356cecd------2)
 - [Everything that happened at OpenAI’s DevDay](https://medium.com/@immairaj/everything-that-happened-at-openais-devday-c9966eea0fa7?source=rss-b4e64356cecd------2)
 - [My Tiny Guide to Shadcn, Radix, and Tailwind](https://medium.com/@immairaj/my-tiny-guide-to-shadcn-radix-and-tailwind-da50fce3140a?source=rss-b4e64356cecd------2)
 - [Indie Hacking excites me](https://medium.com/@immairaj/indie-hacking-excites-me-3e8e0b53847d?source=rss-b4e64356cecd------2)
 - [How fast you work matters](https://medium.com/@immairaj/speed-matters-more-than-you-realize-5a3ece7ddb3d?source=rss-b4e64356cecd------2)
-- [Teaching web development and stuff](https://medium.com/@immairaj/teaching-web-development-and-stuff-ea32a07bc17a?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
