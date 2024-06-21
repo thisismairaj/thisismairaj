@@ -29,10 +29,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ASP.NET          2 hrs 54 mins   █████████████████▓░░░░░░░   70.53 %
-Blade Template   1 hr 3 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
-PHP              9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Blade Template   1 hr 3 mins     █████████████████████▓░░░   86.59 %
+PHP              9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
 ```
 
 <!--END_SECTION:waka-->
