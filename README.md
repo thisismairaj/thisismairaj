@@ -29,8 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ASP.NET   12 mins         ██████████████████████▓░░   90.15 %
-Other     1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
