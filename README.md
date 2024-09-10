@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   36 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
