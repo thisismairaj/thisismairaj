@@ -1,6 +1,7 @@
 <h2>Hi, it's fantastic to see you here. I'm <a href="https://www.linkedin.com/in/thisismairaj/">Mairaj</a> 👋</h2>
 
-- 🔭 I’m a DevRel Engineer @ Langbase
+- ❤ Software Engineer by passion
+- 🔭 Currently, DevRel Engineer @ Langbase
 - 🌱 I’m vibe coding AI agents at Chai.new
 - 🥅 2025 Goals: Get more agents shipped at Chai
 - ⚡ Fun fact: I love working out and writing
