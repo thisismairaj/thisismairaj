@@ -2,8 +2,8 @@
 
 - ❤ Software Engineer by passion
 - 🔭 Currently, DevRel Engineer @ Langbase
-- 🌱 I’m vibe coding AI agents at Chai.new
-- 🥅 2025 Goals: Get more agents shipped at Chai
+- 🌱 I’m vibe coding AI agents at Command.new
+- 🥅 2025 Goals: Get more agents shipped at Command
 - ⚡ Fun fact: I love working out and writing
 - 🚀 My blog: https://medium.com/@immairaj
 
