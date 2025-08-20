@@ -1,11 +1,10 @@
 <h2>Hi, it's fantastic to see you here. I'm <a href="https://www.linkedin.com/in/thisismairaj/">Mairaj</a> 👋</h2>
 
 - ❤ Software Engineer by passion
-- 🔭 Currently, DevRel Engineer @ Langbase
-- 🌱 I’m vibe coding AI agents at Command.new
+- 🏗 Working happily @ Langbase
 - 🥅 2025 Goals: Get more agents shipped at Command
 - ⚡ Fun fact: I love working out and writing
-- 🚀 My blog: https://medium.com/@immairaj
+- 🚀 I share thoughts here: medium.com/@immairaj
 
 📕 &nbsp;**My Latest Writings**
 
@@ -17,23 +16,7 @@
 - [My Tiny Guide to Shadcn, Radix, and Tailwind](https://medium.com/@immairaj/my-tiny-guide-to-shadcn-radix-and-tailwind-da50fce3140a?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp;**Connect with me**
-
-<p align="left">
-<a href="https://medium.com/@immairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="thisismairaj" height="30" width="40" /></a>
-<a href="https://twitter.com/thisismairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisismairaj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thisismairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-</p>
-
 <br />
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 🛠️ &nbsp;**Languages, Frameworks and Tools**
 
@@ -64,8 +47,6 @@ No activity tracked
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-[![Top Langs](https://github-readme-stats-liart-omega.vercel.app/api/top-langs/?username=thisismairaj&layout=compact)](https://github.com/thisismairaj/github-readme-stats)
 
 [website]: https://medium.com/@immairaj
 [linkedin]: https://www.linkedin.com/in/thisismairaj/
