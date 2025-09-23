@@ -9,11 +9,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [20 AI concepts, explained clearly](https://medium.com/@immairaj/20-ai-concepts-explained-clearly-e81673e0396d?source=rss-b4e64356cecd------2)
+- [RAG vs fine-tuning vs prompt engineering](https://medium.com/@immairaj/rag-vs-fine-tuning-vs-prompt-engineering-15191a91545b?source=rss-b4e64356cecd------2)
 - [Building a Slack Insight Agent using Langbase SDK](https://medium.com/@immairaj/building-a-slack-insight-agent-using-langbase-sdk-8e176d8ebc7c?source=rss-b4e64356cecd------2)
 - [30 incredible MCP servers you cannot miss](https://medium.com/@immairaj/30-incredible-mcp-servers-you-cannot-miss-4da3a9ca9394?source=rss-b4e64356cecd------2)
 - [Context engineering: What, why and how to engineer context](https://medium.com/@immairaj/context-engineering-what-why-and-how-to-engineer-context-d31e208fd79b?source=rss-b4e64356cecd------2)
-- [The shortest AI agent you can build](https://medium.com/@immairaj/the-shortest-ai-agent-you-can-build-69fed23d35d1?source=rss-b4e64356cecd------2)
-- [Writing code without Design-First approach is a nightmare](https://medium.com/@immairaj/writing-code-without-design-first-approach-is-a-nightmare-033582b9655a?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
