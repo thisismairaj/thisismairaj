@@ -9,11 +9,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [Context engineering 101: Branch AI conversations with Langbase](https://medium.com/@immairaj/context-engineering-101-branch-ai-conversations-with-langbase-2a82e1312664?source=rss-b4e64356cecd------2)
+- [9 AI primitives that power next-gen AI agents](https://medium.com/@immairaj/9-ai-primitives-that-power-next-gen-ai-agents-5bc4288b0593?source=rss-b4e64356cecd------2)
+- [Learning in Public: The fastest way to grow as a software enginee](https://medium.com/@immairaj/learning-in-public-the-fastest-way-to-grow-as-a-software-enginee-81f801d7017e?source=rss-b4e64356cecd------2)
 - [20 AI concepts, explained clearly](https://medium.com/@immairaj/20-ai-concepts-explained-clearly-e81673e0396d?source=rss-b4e64356cecd------2)
 - [RAG vs fine-tuning vs prompt engineering](https://medium.com/@immairaj/rag-vs-fine-tuning-vs-prompt-engineering-15191a91545b?source=rss-b4e64356cecd------2)
-- [Building a Slack Insight Agent using Langbase SDK](https://medium.com/@immairaj/building-a-slack-insight-agent-using-langbase-sdk-8e176d8ebc7c?source=rss-b4e64356cecd------2)
-- [30 incredible MCP servers you cannot miss](https://medium.com/@immairaj/30-incredible-mcp-servers-you-cannot-miss-4da3a9ca9394?source=rss-b4e64356cecd------2)
-- [Context engineering: What, why and how to engineer context](https://medium.com/@immairaj/context-engineering-what-why-and-how-to-engineer-context-d31e208fd79b?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
