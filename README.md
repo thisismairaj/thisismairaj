@@ -9,11 +9,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [Context engineering: Getting the most out of LLMs](https://medium.com/@immairaj/context-engineering-getting-the-most-out-of-llms-d983f3b83a6d?source=rss-b4e64356cecd------2)
 - [Context engineering 101: Branch AI conversations with Langbase](https://medium.com/@immairaj/context-engineering-101-branch-ai-conversations-with-langbase-2a82e1312664?source=rss-b4e64356cecd------2)
 - [9 AI primitives that power next-gen AI agents](https://medium.com/@immairaj/9-ai-primitives-that-power-next-gen-ai-agents-5bc4288b0593?source=rss-b4e64356cecd------2)
 - [Learning in Public: The fastest way to grow as a software enginee](https://medium.com/@immairaj/learning-in-public-the-fastest-way-to-grow-as-a-software-enginee-81f801d7017e?source=rss-b4e64356cecd------2)
 - [20 AI concepts, explained clearly](https://medium.com/@immairaj/20-ai-concepts-explained-clearly-e81673e0396d?source=rss-b4e64356cecd------2)
-- [RAG vs fine-tuning vs prompt engineering](https://medium.com/@immairaj/rag-vs-fine-tuning-vs-prompt-engineering-15191a91545b?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
