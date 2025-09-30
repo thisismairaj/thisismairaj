@@ -11,7 +11,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The complete guide to OpenAI responses API](https://medium.com/@immairaj/the-complete-guide-to-openai-responses-api-1888fb5a99b8?source=rss-b4e64356cecd------2)
 - [Why every app will become an AI app](https://medium.com/@immairaj/why-every-app-will-become-an-ai-app-42f54c6bcaf5?source=rss-b4e64356cecd------2)
-- [The Complete Guide to RAG: Everything You Need to Know in 2025](https://medium.com/@immairaj/the-complete-guide-to-rag-everything-you-need-to-know-in-2025-5063fed11d5b?source=rss-b4e64356cecd------2)
+- [The complete guide to RAG: Everything you need to know in 2025](https://medium.com/@immairaj/the-complete-guide-to-rag-everything-you-need-to-know-in-2025-5063fed11d5b?source=rss-b4e64356cecd------2)
 - [Vector databases vs traditional databases, explained simply](https://medium.com/@immairaj/vector-databases-vs-traditional-databases-explained-simply-7a793570dbe0?source=rss-b4e64356cecd------2)
 - [Building an AI-powered news app with Langbase SDK](https://medium.com/@immairaj/building-an-ai-powered-news-app-with-langbase-sdk-48e2e28d37a0?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
