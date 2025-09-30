@@ -9,11 +9,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Sonnet 4.5 is here, what’s new?](https://medium.com/@immairaj/claude-sonnet-4-5-is-here-whats-new-faf2c4e9995f?source=rss-b4e64356cecd------2)
+- [The case for AI agents in 2025](https://medium.com/@immairaj/the-case-for-ai-agents-in-2025-10a3773c8711?source=rss-b4e64356cecd------2)
+- [How to build a Claude Sonnet 4.5 agent in 10 minutes](https://medium.com/@immairaj/how-to-build-a-claude-sonnet-4-5-agent-in-10-minutes-0a8fc806764d?source=rss-b4e64356cecd------2)
 - [The complete guide to OpenAI responses API](https://medium.com/@immairaj/the-complete-guide-to-openai-responses-api-1888fb5a99b8?source=rss-b4e64356cecd------2)
 - [Why every app will become an AI app](https://medium.com/@immairaj/why-every-app-will-become-an-ai-app-42f54c6bcaf5?source=rss-b4e64356cecd------2)
-- [The complete guide to RAG: Everything you need to know in 2025](https://medium.com/@immairaj/the-complete-guide-to-rag-everything-you-need-to-know-in-2025-5063fed11d5b?source=rss-b4e64356cecd------2)
-- [Vector databases vs traditional databases, explained simply](https://medium.com/@immairaj/vector-databases-vs-traditional-databases-explained-simply-7a793570dbe0?source=rss-b4e64356cecd------2)
-- [Building an AI-powered news app with Langbase SDK](https://medium.com/@immairaj/building-an-ai-powered-news-app-with-langbase-sdk-48e2e28d37a0?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
