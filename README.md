@@ -1,8 +1,8 @@
 <h2>Hi, it's fantastic to see you here. I'm <a href="https://www.linkedin.com/in/thisismairaj/">Mairaj</a> 👋</h2>
 
 - ❤ Software Engineer by passion
-- 🏗 Working happily @ Langbase
-- 🥅 2025 Goals: Get more agents shipped at Command
+- 🏗 Working happily @ Softstribe Solutions
+- 🥅 2026 Goals: Write less code, deliver more value
 - ⚡ Fun fact: I love working out and writing
 - 🚀 I share thoughts here: medium.com/@immairaj
 
