@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1B4F72,100:29B5E8&height=200&section=header&text=Muhammad%20Mairaj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20Exploring%20Data%20Engineering%20(Databricks%20%2B%20Snowflake)&descAlignY=55&descSize=18&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1B4F72,100:29B5E8&height=200&section=header&text=SR.%20BACKEND%20ENGINEER%20(DATA)&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 <h2>Hi, it's fantastic to see you here. I'm <a href="https://www.linkedin.com/in/thisismairaj/">Mairaj</a> 👋</h2>
 
