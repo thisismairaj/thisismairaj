@@ -6,7 +6,9 @@
 
 - ❤ Senior Backend Engineer, 6 years — fintech, crypto/Web3, and compliance (KYC/AML) systems
 - 🔧 TypeScript/Node.js/NestJS backends: payment pipelines, transaction settlement, database optimization, observability
-- 🔍 Currently exploring data engineering — Databricks & Snowflake pipelines, see pinned repos below
+- 🔍 Data engineering — Databricks &amp; Snowflake pipelines (see pinned repos) and a
+  [Kaggle notebook](https://www.kaggle.com/code/thisismairaj/brfss-2011-2015-a-data-cleaning-case-study)
+  on real data-quality work
 - 🥅 2026 Goals: Write less code, deliver more value
 - ⚡ Fun fact: I love working out and writing
 - 🚀 I share thoughts here: medium.com/@immairaj
@@ -28,8 +30,10 @@
 | Project | What it is |
 |---|---|
 | [data-lab2](https://github.com/thisismairaj/data-lab2) | CDC health-survey pipeline built in parallel on Databricks and Snowflake — medallion architecture, quarantine/quality gates, value-by-value verified output across both platforms |
-| [fhir-data-lab](https://github.com/thisismairaj/fhir-data-lab) | FHIR R4 synthetic healthcare data pipeline on Databricks |
+| [fhir-dataset](https://github.com/thisismairaj/fhir-dataset) | FHIR R4 (Synthea synthetic) healthcare data pipeline on Databricks, PySpark + Databricks' own FHIR-flattening library |
 | [yelp-dataset](https://github.com/thisismairaj/yelp-dataset) | Nested, variable-schema semi-structured dataset pipeline for the same platform-comparison programme |
+| [patient-notes-dataset](https://github.com/thisismairaj/patient-notes-dataset) | Unstructured clinical text extraction (NBME Clinical Patient Notes, 42,146 notes) |
+| [BRFSS data-cleaning case study](https://www.kaggle.com/code/thisismairaj/brfss-2011-2015-a-data-cleaning-case-study) (Kaggle) | Walks through the real defects found cleaning 5 years of BRFSS data, and an independent validation against a public reference notebook |
 
 <br />
 
