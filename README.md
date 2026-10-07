@@ -16,11 +16,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a tiny Claude Code plugin and open sourced it](https://medium.com/@immairaj/i-built-a-tiny-claude-code-plugin-and-open-sourced-it-aaa18e810d39?source=rss-b4e64356cecd------2)
 - [Never silently drop a row](https://medium.com/@immairaj/never-silently-drop-a-row-015ebb05709c?source=rss-b4e64356cecd------2)
 - [Claude Sonnet 4.5 is here, what’s new?](https://medium.com/@immairaj/claude-sonnet-4-5-is-here-whats-new-faf2c4e9995f?source=rss-b4e64356cecd------2)
 - [The case for AI agents in 2025](https://medium.com/@immairaj/the-case-for-ai-agents-in-2025-10a3773c8711?source=rss-b4e64356cecd------2)
 - [How to build a Claude Sonnet 4.5 agent in 10 minutes](https://medium.com/@immairaj/how-to-build-a-claude-sonnet-4-5-agent-in-10-minutes-0a8fc806764d?source=rss-b4e64356cecd------2)
-- [The complete guide to OpenAI responses API](https://medium.com/@immairaj/the-complete-guide-to-openai-responses-api-1888fb5a99b8?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
