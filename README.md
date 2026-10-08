@@ -37,6 +37,16 @@
 
 <br />
 
+📦 &nbsp;**Open Source Tools**
+
+| Project | What it is |
+|---|---|
+| [standup-stretch](https://github.com/thisismairaj/standup-stretch) | Nudges you to stand up and stretch after 90 minutes — a Claude Code plugin, a standalone CLI, and a Claude Code skill, all sharing one TypeScript core |
+| [logcli-shortcuts](https://github.com/thisismairaj/logcli-shortcuts) | Schema-agnostic shell shortcuts for querying Grafana Loki from the terminal — or handing to a coding agent for natural-language log search |
+| [ayat-of-the-day](https://github.com/thisismairaj/ayat-of-the-day) | A real Quranic ayat, fetched live every day — CLI and Claude Code plugin |
+
+<br />
+
 🛠️ &nbsp;**Core Stack**
 
 <p align="left">
