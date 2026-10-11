@@ -16,11 +16,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [wrap-it-up: context engineering you can see as a graph](https://medium.com/@immairaj/wrap-it-up-context-engineering-you-can-see-as-a-graph-969a325e2537?source=rss-b4e64356cecd------2)
 - [I stopped copy-pasting log lines into my AI agent](https://medium.com/@immairaj/i-stopped-copy-pasting-log-lines-into-my-ai-agent-88e55a181eab?source=rss-b4e64356cecd------2)
 - [I built a tiny Claude Code plugin and open sourced it](https://medium.com/@immairaj/i-built-a-tiny-claude-code-plugin-and-open-sourced-it-aaa18e810d39?source=rss-b4e64356cecd------2)
 - [Never silently drop a row](https://medium.com/@immairaj/never-silently-drop-a-row-015ebb05709c?source=rss-b4e64356cecd------2)
 - [Claude Sonnet 4.5 is here, what’s new?](https://medium.com/@immairaj/claude-sonnet-4-5-is-here-whats-new-faf2c4e9995f?source=rss-b4e64356cecd------2)
-- [The case for AI agents in 2025](https://medium.com/@immairaj/the-case-for-ai-agents-in-2025-10a3773c8711?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
