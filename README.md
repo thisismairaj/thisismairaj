@@ -16,11 +16,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [Typing is the bottleneck in agentic coding, not thinking](https://medium.com/@immairaj/typing-is-the-bottleneck-in-agentic-coding-not-thinking-579eea1e63d0?source=rss-b4e64356cecd------2)
 - [Databricks vs Snowflake: what actually happens when you build the same pipeline on both](https://medium.com/@immairaj/databricks-vs-snowflake-what-actually-happens-when-you-build-the-same-pipeline-on-both-4af55341fd5e?source=rss-b4e64356cecd------2)
 - [AI agents don’t go rogue, the containment around them does](https://medium.com/@immairaj/ai-agents-dont-go-rogue-the-containment-around-them-does-31948f2a52d7?source=rss-b4e64356cecd------2)
 - [Why your data lake isn’t as slow as you think](https://medium.com/@immairaj/why-your-data-lake-isnt-as-slow-as-you-think-a8b3db365c17?source=rss-b4e64356cecd------2)
 - [The Azure SQL storage ceiling nobody explains clearly](https://medium.com/@immairaj/the-azure-sql-storage-ceiling-nobody-explains-clearly-934593dc2e79?source=rss-b4e64356cecd------2)
-- [wrap-it-up: context engineering you can see as a graph](https://medium.com/@immairaj/wrap-it-up-context-engineering-you-can-see-as-a-graph-969a325e2537?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
