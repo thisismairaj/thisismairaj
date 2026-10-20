@@ -16,11 +16,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [An open table format is only as open as the tool that wrote it](https://medium.com/@immairaj/an-open-table-format-is-only-as-open-as-the-tool-that-wrote-it-71bd5979d141?source=rss-b4e64356cecd------2)
 - [I rebuilt my hand-written pipeline in dbt and planted the bugs myself](https://medium.com/@immairaj/i-rebuilt-my-hand-written-pipeline-in-dbt-and-planted-the-bugs-myself-dc47e145b772?source=rss-b4e64356cecd------2)
 - [Typing is the bottleneck in agentic coding, not thinking](https://medium.com/@immairaj/typing-is-the-bottleneck-in-agentic-coding-not-thinking-579eea1e63d0?source=rss-b4e64356cecd------2)
 - [Databricks vs Snowflake: what actually happens when you build the same pipeline on both](https://medium.com/@immairaj/databricks-vs-snowflake-what-actually-happens-when-you-build-the-same-pipeline-on-both-4af55341fd5e?source=rss-b4e64356cecd------2)
 - [AI agents don’t go rogue, the containment around them does](https://medium.com/@immairaj/ai-agents-dont-go-rogue-the-containment-around-them-does-31948f2a52d7?source=rss-b4e64356cecd------2)
-- [Why your data lake isn’t as slow as you think](https://medium.com/@immairaj/why-your-data-lake-isnt-as-slow-as-you-think-a8b3db365c17?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
