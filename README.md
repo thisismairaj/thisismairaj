@@ -16,11 +16,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [What Databricks and Snowflake actually charge you for](https://medium.com/@immairaj/what-databricks-and-snowflake-actually-charge-you-for-45d6a8299595?source=rss-b4e64356cecd------2)
 - [The small file problem, measured on disk and in Azure](https://medium.com/@immairaj/the-small-file-problem-measured-on-disk-and-in-azure-3494a0ece5bd?source=rss-b4e64356cecd------2)
 - [An open table format is only as open as the tool that wrote it](https://medium.com/@immairaj/an-open-table-format-is-only-as-open-as-the-tool-that-wrote-it-71bd5979d141?source=rss-b4e64356cecd------2)
 - [I rebuilt my hand-written pipeline in dbt and planted the bugs myself](https://medium.com/the-pipeline-ai-ml-and-cloud/i-rebuilt-my-hand-written-pipeline-in-dbt-and-planted-the-bugs-myself-dc47e145b772?source=rss-b4e64356cecd------2)
 - [Typing is the bottleneck in agentic coding, not thinking](https://medium.com/@immairaj/typing-is-the-bottleneck-in-agentic-coding-not-thinking-579eea1e63d0?source=rss-b4e64356cecd------2)
-- [Databricks vs Snowflake: what actually happens when you build the same pipeline on both](https://medium.com/@immairaj/databricks-vs-snowflake-what-actually-happens-when-you-build-the-same-pipeline-on-both-4af55341fd5e?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
