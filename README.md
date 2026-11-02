@@ -16,11 +16,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an end-to-end data platform on Snowflake, from raw files to a certified dashboard](https://medium.com/@immairaj/building-an-end-to-end-data-platform-on-snowflake-from-raw-files-to-a-certified-dashboard-a2a8242a4fcd?source=rss-b4e64356cecd------2)
+- [The scarce skill in data engineering is noticing a plausible wrong answer](https://medium.com/@immairaj/the-scarce-skill-in-data-engineering-is-noticing-a-plausible-wrong-answer-d30abd3d0449?source=rss-b4e64356cecd------2)
 - [What you choose to attempt is the only edge left](https://medium.com/@immairaj/what-you-choose-to-attempt-is-the-only-edge-left-35e5d1936700?source=rss-b4e64356cecd------2)
 - [What Databricks and Snowflake actually charge you for](https://medium.com/@immairaj/what-databricks-and-snowflake-actually-charge-you-for-45d6a8299595?source=rss-b4e64356cecd------2)
 - [The small file problem, measured on disk and in Azure](https://medium.com/@immairaj/the-small-file-problem-measured-on-disk-and-in-azure-3494a0ece5bd?source=rss-b4e64356cecd------2)
-- [An open table format is only as open as the tool that wrote it](https://medium.com/@immairaj/an-open-table-format-is-only-as-open-as-the-tool-that-wrote-it-71bd5979d141?source=rss-b4e64356cecd------2)
-- [I rebuilt my hand-written pipeline in dbt and planted the bugs myself](https://medium.com/the-pipeline-ai-ml-and-cloud/i-rebuilt-my-hand-written-pipeline-in-dbt-and-planted-the-bugs-myself-dc47e145b772?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
