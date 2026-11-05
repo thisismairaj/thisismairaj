@@ -4,7 +4,7 @@
 
 <h2>Hi, it's fantastic to see you here. I'm <a href="https://www.linkedin.com/in/thisismairaj/">Mairaj</a> 👋</h2>
 
-- ❤ Senior Backend Engineer, 6 years — fintech, crypto/Web3, and compliance (KYC/AML) systems
+- ❤ Senior Backend Engineer, 8 years: fintech, crypto/Web3, and compliance (KYC/AML) systems
 - 🔧 TypeScript/Node.js/NestJS backends: payment pipelines, transaction settlement, database optimization, observability
 - 🔍 Data engineering — Databricks &amp; Snowflake pipelines (see pinned repos) and a
   [Kaggle notebook](https://www.kaggle.com/code/thisismairaj/brfss-2011-2015-a-data-cleaning-case-study)
