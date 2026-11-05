@@ -29,7 +29,7 @@
 
 | Project | What it is |
 |---|---|
-| [data-lab2](https://github.com/thisismairaj/data-lab2) | CDC health-survey pipeline built in parallel on Databricks and Snowflake — medallion architecture, quarantine/quality gates, value-by-value verified output across both platforms |
+| [data-lab2](https://github.com/thisismairaj/data-lab2) | CDC health-survey pipeline built in parallel on Databricks and Snowflake: medallion architecture, quarantine/quality gates, value-by-value verified output across both platforms |
 | [fhir-dataset](https://github.com/thisismairaj/fhir-dataset) | FHIR R4 (Synthea synthetic) healthcare data pipeline on Databricks, PySpark + Databricks' own FHIR-flattening library |
 | [yelp-dataset](https://github.com/thisismairaj/yelp-dataset) | Nested, variable-schema semi-structured dataset pipeline for the same platform-comparison programme |
 | [patient-notes-dataset](https://github.com/thisismairaj/patient-notes-dataset) | Unstructured clinical text extraction (NBME Clinical Patient Notes, 42,146 notes) |
@@ -41,9 +41,9 @@
 
 | Project | What it is |
 |---|---|
-| [standup-stretch](https://github.com/thisismairaj/standup-stretch) | Nudges you to stand up and stretch after 90 minutes — a Claude Code plugin, a standalone CLI, and a Claude Code skill, all sharing one TypeScript core |
-| [logcli-shortcuts](https://github.com/thisismairaj/logcli-shortcuts) | Schema-agnostic shell shortcuts for querying Grafana Loki from the terminal — or handing to a coding agent for natural-language log search |
-| [ayat-of-the-day](https://github.com/thisismairaj/ayat-of-the-day) | A real Quranic ayat, fetched live every day — CLI and Claude Code plugin |
+| [standup-stretch](https://github.com/thisismairaj/standup-stretch) | Nudges you to stand up and stretch after 90 minutes: a Claude Code plugin, a standalone CLI, and a Claude Code skill, all sharing one TypeScript core |
+| [logcli-shortcuts](https://github.com/thisismairaj/logcli-shortcuts) | Schema-agnostic shell shortcuts for querying Grafana Loki from the terminal, or handing to a coding agent for natural-language log search |
+| [ayat-of-the-day](https://github.com/thisismairaj/ayat-of-the-day) | A real Quranic ayat, fetched live every day: CLI and Claude Code plugin |
 
 <br />
 
