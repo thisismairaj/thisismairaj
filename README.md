@@ -6,7 +6,7 @@
 
 - ❤ Senior Backend Engineer, 8 years: fintech, crypto/Web3, and compliance (KYC/AML) systems
 - 🔧 TypeScript/Node.js/NestJS backends: payment pipelines, transaction settlement, database optimization, observability
-- 🔍 Data engineering — Databricks &amp; Snowflake pipelines (see pinned repos) and a
+- 🔍 Data engineering: Databricks &amp; Snowflake pipelines (see pinned repos) and a
   [Kaggle notebook](https://www.kaggle.com/code/thisismairaj/brfss-2011-2015-a-data-cleaning-case-study)
   on real data-quality work
 - 🥅 2026 Goals: Write less code, deliver more value
@@ -71,7 +71,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-📊 &nbsp;**Currently exploring — Data Engineering**
+📊 &nbsp;**Data Engineering Stack**
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
