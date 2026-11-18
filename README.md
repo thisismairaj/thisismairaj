@@ -16,11 +16,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [How my data checks lied: a row count passed with damaged bytes](https://medium.com/@immairaj/how-my-data-checks-lied-a-row-count-passed-with-damaged-bytes-8887832521b7?source=rss-b4e64356cecd------2)
 - [We didn’t mind abstraction until it started writing itself](https://medium.com/@immairaj/we-didnt-mind-abstraction-until-it-started-writing-itself-19817c57ee37?source=rss-b4e64356cecd------2)
 - [A live crypto trade pipeline on Kafka, Spark and Delta Lake](https://medium.com/@immairaj/a-live-crypto-trade-pipeline-on-kafka-spark-and-delta-lake-f257bd457ef2?source=rss-b4e64356cecd------2)
 - [Building an end-to-end data platform on Snowflake, from raw files to a certified dashboard](https://medium.com/@immairaj/building-an-end-to-end-data-platform-on-snowflake-from-raw-files-to-a-certified-dashboard-a2a8242a4fcd?source=rss-b4e64356cecd------2)
 - [The scarce skill in data engineering is noticing a plausible wrong answer](https://medium.com/@immairaj/the-scarce-skill-in-data-engineering-is-noticing-a-plausible-wrong-answer-d30abd3d0449?source=rss-b4e64356cecd------2)
-- [What you choose to attempt is the only edge left](https://medium.com/@immairaj/what-you-choose-to-attempt-is-the-only-edge-left-35e5d1936700?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
