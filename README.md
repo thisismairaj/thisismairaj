@@ -16,11 +16,11 @@
 📕 &nbsp;**My Latest Writings**
 
 <!-- BLOG-POST-LIST:START -->
+- [Trino vs StarRocks vs Doris on an Azure Iceberg lake](https://medium.com/@immairaj/trino-vs-starrocks-vs-doris-on-an-azure-iceberg-lake-c03b39fcac36?source=rss-b4e64356cecd------2)
 - [Making a Trino lake as fast as a SQL database](https://medium.com/@immairaj/making-a-trino-lake-as-fast-as-a-sql-database-fdc39b549d20?source=rss-b4e64356cecd------2)
 - [A brake for Claude Code on Azure: ask before anything that costs money](https://medium.com/@immairaj/a-brake-for-claude-code-on-azure-ask-before-anything-that-costs-money-3f60d327f133?source=rss-b4e64356cecd------2)
 - [How my data checks lied: a row count passed with damaged bytes](https://medium.com/@immairaj/how-my-data-checks-lied-a-row-count-passed-with-damaged-bytes-8887832521b7?source=rss-b4e64356cecd------2)
 - [We didn’t mind abstraction until it started writing itself](https://medium.com/@immairaj/we-didnt-mind-abstraction-until-it-started-writing-itself-19817c57ee37?source=rss-b4e64356cecd------2)
-- [A live crypto trade pipeline on Kafka, Spark and Delta Lake](https://medium.com/@immairaj/a-live-crypto-trade-pipeline-on-kafka-spark-and-delta-lake-f257bd457ef2?source=rss-b4e64356cecd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
